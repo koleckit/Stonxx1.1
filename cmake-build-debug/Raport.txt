@@ -1,0 +1,23 @@
+Stonxx 1.0
+Podsumowanie Twojego koszyka inwestycyjnego
+--------------------------
+Numer tranzakcji: 3
+Typ transakcji: Zakup
+Nazwa: MSFT
+Data zakupu: 2019-07-25
+Cena zakupu: 140.19$
+Ilość zakupionych akcji: 1
+Ilość zakupionych akcji: 1
+Wartość akcji w portfelu: 140.19$
+--------------------------
+Numer tranzakcji: 4
+Typ transakcji: Sprzedaż
+Nazwa: MSFT
+Data zakupu: 2019-07-25
+Data sprzedaży: 2019-08-21
+Cena zakupu: 140.19$
+Ilość zakupionych akcji: 3
+Ilość sprzedanych akcji: 3
+Cena sprzedaży: 138$
+Kwota sprzedaży: 414
+--------------------------

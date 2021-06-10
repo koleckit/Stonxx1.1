@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/TycjanKolecki/Desktop/Stonxx Beta 2/Stonxx_beta_2/Portfolio.h
+
+/Users/TycjanKolecki/Desktop/Stonxx Beta 2/Stonxx_beta_2/StockOnDate.h
+
+/Users/TycjanKolecki/Desktop/Stonxx Beta 2/Stonxx_beta_2/checkIsDateCorrect.h
+
+/Users/TycjanKolecki/Desktop/Stonxx Beta 2/Stonxx_beta_2/investmentsCostCalc.h
+
+/Users/TycjanKolecki/Desktop/Stonxx Beta 2/Stonxx_beta_2/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+readRecordFromFile_twoTerms.h
+/Users/TycjanKolecki/Desktop/Stonxx Beta 2/Stonxx_beta_2/readRecordFromFile_twoTerms.h
+profitCalc.h
+/Users/TycjanKolecki/Desktop/Stonxx Beta 2/Stonxx_beta_2/profitCalc.h
+investmentsCostCalc.h
+/Users/TycjanKolecki/Desktop/Stonxx Beta 2/Stonxx_beta_2/investmentsCostCalc.h
+checkIsDateCorrect.h
+/Users/TycjanKolecki/Desktop/Stonxx Beta 2/Stonxx_beta_2/checkIsDateCorrect.h
+roiCalc.h
+/Users/TycjanKolecki/Desktop/Stonxx Beta 2/Stonxx_beta_2/roiCalc.h
+StockOnDate.h
+/Users/TycjanKolecki/Desktop/Stonxx Beta 2/Stonxx_beta_2/StockOnDate.h
+Portfolio.h
+/Users/TycjanKolecki/Desktop/Stonxx Beta 2/Stonxx_beta_2/Portfolio.h
+
+/Users/TycjanKolecki/Desktop/Stonxx Beta 2/Stonxx_beta_2/profitCalc.h
+
+/Users/TycjanKolecki/Desktop/Stonxx Beta 2/Stonxx_beta_2/readRecordFromFile_twoTerms.h
+
+/Users/TycjanKolecki/Desktop/Stonxx Beta 2/Stonxx_beta_2/roiCalc.h
+

@@ -1,0 +1,3 @@
+/Users/TycjanKolecki/Desktop/Stonxx Beta 2/Stonxx_beta_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/TycjanKolecki/Desktop/Stonxx Beta 2/Stonxx_beta_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/TycjanKolecki/Desktop/Stonxx Beta 2/Stonxx_beta_2/cmake-build-debug/CMakeFiles/Stonxx_beta_2.dir
